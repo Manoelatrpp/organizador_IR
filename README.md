@@ -7,4 +7,4 @@ A solução foi totalmente construída no Excel.
 [Planilha Inteligente](  
 
 ## 💻 Ferramentas Utilizadas  
-- **Excel**: Para criar planilhas detalhadas com dados financeiros.  
+- **Excel**
