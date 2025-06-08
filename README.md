@@ -3,7 +3,7 @@ Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organiz
 A proposta é construir um agregador de dados no qual o usuário possa controlar suas entradas de maneira eficiente e validada. 
 A solução foi totalmente construída no Excel.
 
-[Planilha Inteligente](  
+[Planilha Inteligente](https://github.com/Manoelatrpp/organizador_IR/blob/main/Organizador_IR.xlsx)
 
 ## 💻 Ferramentas Utilizadas  
 - **Excel**
